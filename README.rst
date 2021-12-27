@@ -1,40 +1,34 @@
-AlertOps Expert Guidance
+How Does Alert Fatigue Affect Teams?
 ========
+IT service management (ITSM) and DevOps teams are responsible for identifying incident management issues as quickly as possible. Yet the sheer volume of incident management alerts sometimes can be overwhelming. And in many instances, teams bombarded with incident management alerts may suffer “alert fatigue.”
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Alert fatigue occurs when a team receives a high volume of incident management alerts in a short period of time. In this scenario, team members may become desensitized to incident management alerts – even high-priority notifications. Perhaps even worse, alert fatigue may lead a team to ignore incident management notifications altogether.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Ultimately, alert fatigue can cause many problems for a company, and these include:
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+· Reduced Productivity: If a team does not respond to a system outage, extended downtime may occur, resulting in reduced productivity across a business.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+· Revenue Losses: The longer an incident management issue goes unaddressed, the more likely it becomes that the problem will put a dent in a company’s bottom line.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+· Brand Reputation Damage: A company that fails to instantly respond to incident management problems risks long-lasting brand reputation damage.The problems associated with alert fatigue can add up quickly. As such, businesses must do everything they can to stop alert fatigue before it’s too late.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Now, let’s take a look at five ways to reduce or eliminate alert fatigue:
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+1. Provide Contextual and Actionable Alerts. Empower teams with timely, relevant and accurate incident management alerts. By doing so, a company can make it easy for team members to effectively respond to an incident.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+2. Eliminate Redundancy. Focus on reducing or consolidating incident management notifications. That way, a company can limit the risk of team members receiving ongoing notifications about the same incident management issue.
 
-1 Red Canary 2021 Threat Detection Report
+3. Make Team Members Accountable for Their Actions. Real-time messaging tools make incident management notifications visible across a team. A company that uses these open communication tools can encourage team members to take ownership over incident management notifications and work together to find the best solutions.
+
+4. Ensure the Right Team Members Are Notified. What good is an incident management alert if it goes to the wrong person? With the right incident management notification tools in place, a company can guarantee the right team members are notified about incident management issues.
+
+5. Strive for Continuous Improvement. Alert fatigue can occur suddenly and without notice. However, a company that tracks a team’s incident management responses and provides actionable feedback can prevent alert fatigue both now and in the future.
+
+When it comes to alert fatigue, it pays to use AlertOps. Our incident management system features rich alerting capabilities to guarantee notifications reach the right people every time. Plus, with our real-time collaboration capabilities, team members can use Slack and HipChat to stay up to date about an incident management issue and resolve it immediately.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alert-fatigue-teams/
 
 Read more:
 ====
